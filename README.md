@@ -33,18 +33,7 @@ Atualmente, desenvolvo sistemas com foco em:
 
 ---
 
-### 🧪 Projetos em destaque
 
-- ✅ **[Checklist Ticket Farmácia](https://github.com/tiagomiranda/checklist-farmacia)**  
-  App em Python + Tkinter que gera checklist em PDF com visual moderno.
-
-- ✅ **[Consulta Tabela FIPE](https://github.com/tiagomiranda/tabela-fipe)**  
-  Aplicativo que consulta valores de veículos via API.
-
-- ✅ **[Ferramenta de Backup e Análise de Dados](https://github.com/tiagomiranda/db-analyzer)**  
-  Streamlit + MySQL + Alertas no Telegram + Logs automáticos.
-
----
 
 ### 📈 GitHub Stats
 
