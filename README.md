@@ -35,15 +35,7 @@ Atualmente, desenvolvo sistemas com foco em:
 
 
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsmdev-ux&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsmdev-ux&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ### ✉️ Vamos conversar?
 Estou aberto a parcerias, freelas e projetos colaborativos. Bora criar algo juntos!
