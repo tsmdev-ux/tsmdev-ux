@@ -1,42 +1,40 @@
-<h1 align="center">👨‍💻 Tiago Miranda</h1>
+<h1 align="center">Tiago Miranda</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack | Python • Django • Git • javascript • html • css•docker • django • postgesql • mysql
+  Desenvolvedor Full Stack | Python • Django • FastAPI • JavaScript • Docker • PostgreSQL
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tiago-miranda-dev/" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/tsmdev-ux/">GitHub</a> •
-  <a href="mailto:tiagosm-dev@gmail.com">E-mail</a>
+  <a href="https://www.linkedin.com/in/tiago-miranda-dev/">LinkedIn</a> •
+  <a href="mailto:tiagosm.dev@gmail.com">E-mail</a>
 </p>
 
 ---
 
-### 🚀 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre buscando aprender novas ferramentas e criar soluções inteligentes para problemas reais.
+### Sobre mim
 
-Atualmente, desenvolvo sistemas com foco em:
-- 🧠 Python, Django e automações
-- 🧾 Sistemas administrativos com banco de dados
-- 💬 Integrações com IA, APIs e bots inteligentes
-- 📊 Dashboards, relatórios e ferramentas de análise
+Desenvolvo sistemas para resolver problemas reais, com foco em:
 
----
+- Python, Django e automações
+- Sistemas administrativos com banco de dados
+- Integrações com IA, APIs e bots
+- Dashboards, relatórios e ferramentas de análise
 
-### 🛠️ Tecnologias e Ferramentas
+### Projetos em destaque
 
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [**Força**](https://github.com/tsmdev-ux/forca-financas) | Organização financeira pessoal: PWA e agente no Telegram que dizem quanto você pode gastar hoje | Python, FastAPI, SQLite, Docker, IA |
+| [**Synex Study Flow**](https://github.com/tsmdev-ux/Synex_Study) | Gestão de estudos com Kanban, metas, cronograma e planos Free/Premium | Django, PostgreSQL, Docker, Tailwind |
+| [**Secure Pass**](https://github.com/tsmdev-ux/Gerenciador-de-Senha-) | Gerenciador de senhas desktop com criptografia AES-256 local | Python, CustomTkinter |
+| [**SGE**](https://github.com/tsmdev-ux/SGE) | Sistema de gestão de estoque | Python, Django |
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,git,javascript,html,css,docker,postgresql,mysql" />
-  </a>
+### Tecnologias
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,javascript,html,css,docker,postgresql,mysql,sqlite,git" alt="Python, Django, FastAPI, JavaScript, HTML, CSS, Docker, PostgreSQL, MySQL, SQLite e Git">
+</a>
 
----
+### Vamos conversar?
 
-
-
-
-
-### ✉️ Vamos conversar?
-Estou aberto a parcerias, freelas e projetos colaborativos. Bora criar algo juntos!
-
+Estou aberto a oportunidades, freelas e projetos colaborativos.
